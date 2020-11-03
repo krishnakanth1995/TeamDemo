@@ -75,6 +75,7 @@ namespace Inheritance
             r = new HDFC();
             Console.WriteLine(" HDFC HOMELOAN:{0}", r.Homeloan());
             Console.WriteLine(" HDFC EDUCATIONALLOAN:{0}", r.Educationalloan());
+            Console.WriteLine("Changes made ");
 
             Console.Read();
 
