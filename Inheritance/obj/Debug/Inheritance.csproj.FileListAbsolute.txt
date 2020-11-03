@@ -1,0 +1,7 @@
+B:\office\c#\Day4\Inheritance\bin\Debug\Inheritance.exe.config
+B:\office\c#\Day4\Inheritance\bin\Debug\Inheritance.exe
+B:\office\c#\Day4\Inheritance\bin\Debug\Inheritance.pdb
+B:\office\c#\Day4\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+B:\office\c#\Day4\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+B:\office\c#\Day4\Inheritance\obj\Debug\Inheritance.exe
+B:\office\c#\Day4\Inheritance\obj\Debug\Inheritance.pdb
